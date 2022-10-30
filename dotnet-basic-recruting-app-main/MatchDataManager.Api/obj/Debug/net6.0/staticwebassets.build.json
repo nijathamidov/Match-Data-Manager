@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zohREeog2hmUhfNpd0qjs2JOB8NepQ6wCypGe3+/518=",
+  "Source": "MatchDataManager.Api",
+  "BasePath": "_content/MatchDataManager.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
